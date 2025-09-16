@@ -25,3 +25,7 @@ A Point of Sale system built with Django featuring role-based access for admin, 
 - Django
 - SQLite (can be configured for other databases)
 - HTML/CSS/JavaScript
+
+
+## Author
+This project is maintained by <colminas>.
